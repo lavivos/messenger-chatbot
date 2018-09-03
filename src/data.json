@@ -1,0 +1,28 @@
+{
+    "greeting": {
+        "keywords": [
+            "salut",
+            "hi",
+            "bonjour",
+            "hey",
+            "slt"
+        ],
+        "responses": [
+            "Bonjour",
+            "Salut",
+            "Bonjour, comment vas tu ?",
+            "Salut, j'espère que vous passez une bonne journée. Comment pourrais-je vous aider"
+        ]
+    },
+    "citation": {
+        "keywords": [
+            "citation",
+            "proverbe"
+        ],
+        "responses": {
+            "Jean-Paul Sartre": "Dans la vie on ne fait pas ce que l'on veut mais on est responsable de ce que l'on est.",
+            "Victor Hugo": "On passe une moitié de sa vie à attendre ceux qu'on aimera et l'autre moitié à quitter ceux qu'on aime.",
+            "Friedrich Nietzsche": "Tu dois devenir l'homme que tu es. Fais ce que toi seul peux faire. Deviens sans cesse celui que tu es, sois le maître et le sculpteur de toi-même."
+        }
+    }
+}
