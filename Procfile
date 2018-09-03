@@ -1,1 +1,1 @@
-web: gunicorn messenger-chatbot:app --log-file=-
+web: gunicorn main:main --log-file=-
